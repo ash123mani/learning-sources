@@ -2,5 +2,8 @@
    ### Buils E-commerce website using Nextjs and shopify
    [Ecommerce-Nextjs-Shopify](https://www.learnwithjason.dev/ecommerce-nextjs-shopify)
    
+   ### NextJs Best Practices for large websites
+   [NextJs Best Practices for large websites](https://www.smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/)
+   
 
 
